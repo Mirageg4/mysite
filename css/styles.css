@@ -5,15 +5,25 @@ body {
 
 }
 h1 {
-    margin-top: 0px ;
+    font-size: 5.262rem;
+    margin-top: 50px;
+    margin-bottom: 20px;
     font-family: 'Sacramento', cursive;
+    color: #389393;
 }
 
 h2 {
     font-family: 'Montserrat', sans-serif;
 }
+
 h3 {
     font-family: 'Montserrat', sans-serif;
+}
+
+.line2 {
+    margin-top: 0px;
+    font-size: 2rem;
+    color:#389393
 }
 
 .topDiv {
@@ -49,7 +59,10 @@ h3 {
     background-color: #e0ece4;
 }
 .coder {
+    margin-top: 0px;
+    font-size: 2rem;
     text-decoration: underline;
+    color:#389393
 }
 
 .topCloud {
