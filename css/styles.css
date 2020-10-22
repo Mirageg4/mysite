@@ -23,16 +23,31 @@ h3 {
 
 }
 
-.midDiv {
-    background-color: #8fc0a9;
+.Div2 {
+    background-color: whitesmoke;
     
 }
 
-.botDiv {
-    background-color: #68b0ab;
+.profile {
+    padding: 20px;
+}
+
+.skills {
+    background-color: whitesmoke;
     
 }
 
+.software-img {
+    height: 200px;
+}
+.contact-me {
+    background-color: #e0ece4;
+    
+}
+
+.bottom-container {
+    background-color: #e0ece4;
+}
 .coder {
     text-decoration: underline;
 }
