@@ -29,17 +29,28 @@ h3 {
 .topDiv {
     background-color: #e0ece4;
     position: relative;
-    padding-top: 50px;
+    padding-top: 30px;
 
+}
+
+.border-style {
+    border-style: solid;
+    border-bottom: none;
+    width:65%;
+    margin-top: 0px;
+    margin-bottom: 35px;
 }
 
 .Div2 {
     background-color: whitesmoke;
-    
 }
 
 .profile {
     padding: 20px;
+}
+
+.pro-img {
+    padding-top: 20px;
 }
 
 .skills {
@@ -60,7 +71,9 @@ h3 {
 
 .bottom-container {
     background-color: #e0ece4;
+    padding-bottom: 20px;
 }
+
 .coder {
     margin-top: 0px;
     font-size: 2rem;
@@ -84,3 +97,84 @@ h3 {
 .touch {
     color:#389393
 }
+
+.btn {
+    color:#389393 
+}
+
+.footer-link {
+    color:#389393; 
+    font-family: 'Montserrat', sans-serif;
+    margin: 30px 5px;
+    
+    text-decoration: none;
+    
+}
+
+a:hover {
+    color: #FFFFFF;
+}
+
+
+.grey {
+    color: #373a40
+}
+
+.copyright {
+    color: #373a40;
+    font-size: 0.75rem;
+    
+}
+
+.icon-ref {
+    color: #373a40;
+    font-size: 0.75rem;
+    margin-top: 15px;
+}
+
+.freepik {
+    color:#389393; 
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.BUTTON_GIR {
+    background: #68B0AB;
+    background-image: -webkit-linear-gradient(top, #68B0AB, #389393);
+    background-image: -moz-linear-gradient(top, #68B0AB, #389393);
+    background-image: -ms-linear-gradient(top, #68B0AB, #389393);
+    background-image: -o-linear-gradient(top, #68B0AB, #389393);
+    background-image: -webkit-gradient(to bottom, #68B0AB, #389393);
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 100;
+    padding: 10px;
+    -webkit-box-shadow: 1px 1px 10px 0 #41aea9;
+    -moz-box-shadow: 1px 1px 10px 0 #41aea9;
+    box-shadow: 1px 1px 10px 0 #41aea9;
+    text-shadow: 1px 1px 10px #41aea9;
+    border: solid #16697A 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 8px;
+ }
+ 
+ .BUTTON_GIR:hover {
+    border: solid #16697A 1px;
+    background: #01C5C4;
+    background-image: -webkit-linear-gradient(top, #01C5C4, #28ABB9);
+    background-image: -moz-linear-gradient(top, #01C5C4, #28ABB9);
+    background-image: -ms-linear-gradient(top, #01C5C4, #28ABB9);
+    background-image: -o-linear-gradient(top, #01C5C4, #28ABB9);
+    background-image: -webkit-gradient(to bottom, #01C5C4, #28ABB9);
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    text-decoration: none;
+ }
