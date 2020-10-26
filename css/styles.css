@@ -44,6 +44,9 @@ h3 {
 
 .skills {
     background-color: whitesmoke;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
@@ -76,4 +79,8 @@ h3 {
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+
+.touch {
+    color:#389393
 }
