@@ -8,7 +8,7 @@ h1 {
     font-size: 5.262rem;
     margin-top: 50px;
     margin-bottom: 20px;
-    font-family: 'Sacramento', cursive;
+    font-family: 'Sacramento', 'cursive';
     color: #389393;
 }
 
@@ -81,18 +81,6 @@ h3 {
     color:#389393
 }
 
-.topCloud {
-    position: absolute;
-    right: 300px;
-    top: 50px;
-    
-}
-
-.botCloud {
-    position: absolute;
-    left: 300px;
-    bottom: 300px;
-}
 
 .touch {
     color:#389393
